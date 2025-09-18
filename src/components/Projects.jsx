@@ -10,7 +10,7 @@ const Projects = () => {
       id: 1,
       title: 'Campus Academic Management System',
       category: 'Full Stack',
-      image: './public/Project-3.png',
+      image: '/public/Project-3.png',
       description: 'A Django-based campus academic management system with strong DBMS integration.',
       longDescription:
         'Developed a Campus Academic Management System using Django and SQL. It supports CRUD operations for student profiles, course registrations, and attendance logs. Integrated custom SQL queries and Django ORM for complex reporting and analytics.',
