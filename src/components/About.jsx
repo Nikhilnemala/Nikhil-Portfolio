@@ -41,7 +41,7 @@ const About = () => {
             <div className="relative w-full max-w-md mx-auto">
               <div className="absolute inset-0 bg-gradient-to-r from-blue-700 to-cyan-500 rounded-2xl transform rotate-6" />
               <img
-                src="public/Nikhil.png"
+                src="/images/Nikhil.png"
                 alt="Profile"
                 className="relative w-full h-96 object-cover rounded-2xl shadow-xl"
                 loading="lazy"
